@@ -1,0 +1,21 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "Conway's Game of Life implemented using SASS and ReactJS.",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "ReactJS"
+  ],
+  "author": "Vince Aggrippino",
+  "license": "ISC"
+}
